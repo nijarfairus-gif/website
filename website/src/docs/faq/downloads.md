@@ -1,4 +1,4 @@
----
+---https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.pb
 title: Downloads
 titleTemplate: Frequently Asked Questions
 description: Frequently Asked Question about Downloads.
